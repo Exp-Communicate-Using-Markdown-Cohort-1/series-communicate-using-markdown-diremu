@@ -8,3 +8,7 @@ for (let number of array) {
   number *= number}
 console.log(number)
 ```
+- [x] Learn how to create heading in MarkDown
+- [x] Learn how to create code blocks in Markdown
+- [x] Learn how to include images with alt text in Markdown
+- [ ] Learn how to create a GitHub Profile
